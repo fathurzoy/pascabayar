@@ -109,9 +109,9 @@ $totalTagihan   = $belumBayar['results'][0][0];
     <!-- title -->
     <title>PayListrik</title>
     <!-- Meload file bootstrap.min.css di folder asset-->
-    <link rel="stylesheet" href="<?= base_url(); ?>/asset/css/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>/asset/vendor/assets/vendor/bootstrap/css/bootstrap.min.css">
     <!-- Meload file style.css di folder asset-->
-    <link rel="stylesheet" href="<?= base_url(); ?>/asset/css/style.css">
+    <link rel="stylesheet" href="<?= base_url(); ?>/asset/vendor/assets/css/style.css">
     <!-- Meload icon di folder asset-->
     <link rel="icon" href="<?= base_url(); ?>/asset/img/icon-logo.jpg">
     <!-- Meload file all.css di folder asset-->
